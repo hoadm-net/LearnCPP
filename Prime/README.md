@@ -1,2 +1,2 @@
 ﻿# Số nguyên tố
-Một số tự nhiên $$p$$ với $$p > 1$$ được gọi là số nguyên tố nếu nó chỉ có 2 ước số là 1 và chính nó.
+Một số tự nhiên $p$ với $p > 1$ được gọi là số nguyên tố nếu nó chỉ có 2 ước số là 1 và chính nó. Ví dụ: 2, 3, 5, 7, 11, 13...
